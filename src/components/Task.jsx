@@ -4,7 +4,7 @@ import { faEdit, faTrash, faCheck } from '@fortawesome/free-solid-svg-icons';
 import Swal from 'sweetalert2';
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8000/tasklist';
+const API_URL = 'https://backend-todo-1-n48d.onrender.com/';
 
 const Task = () => {
 
